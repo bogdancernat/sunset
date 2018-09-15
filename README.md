@@ -1,4 +1,10 @@
-# simple-css-stuff
+# Sunset
+
+Inspired by / Copied this dribbble [https://dribbble.com/shots/3684381-Sunset](https://dribbble.com/shots/3684381-Sunset) by João Augusto and created it in CSS with some animations.
+
+Demo here: https://bogdancernat.github.io/sunset
+
+Used the vue-cli tool because why not?
 
 ## Project setup
 ```
